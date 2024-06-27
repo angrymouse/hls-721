@@ -1,0 +1,10 @@
+[
+  {
+    "program": "system",
+    "action": "kvStore",
+    "params": {
+      "key":"owner",
+      "value":"tb1p0wt007yyzfswhsnwnc45ly9ktyefzyrwznwja0m4gr7n9vjactes80klh4"
+    }
+  }
+]
